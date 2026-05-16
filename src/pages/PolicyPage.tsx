@@ -339,6 +339,7 @@ const PolicyPage: React.FC = () => {
         </main>
       </div>
     </div>
+    </div>
   );
 };
 
